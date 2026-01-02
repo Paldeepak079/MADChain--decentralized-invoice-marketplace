@@ -1,5 +1,6 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1885" height="910" alt="Screenshot 2026-01-02 154916" src="https://github.com/user-attachments/assets/02b1d76c-8948-4b2a-be81-a86cfcd39679" />
+
 </div>
 
 # MADChain - Decentralized Invoice Marketplace
@@ -61,9 +62,9 @@ You'll need Node.js installed on your machine.
 
 3. **Configure API Access**
    - Create a `.env.local` file in the root directory
-   - Add your MADTech API key:
+   - Add your Gemini API key:
      ```
-     MADTECH_API_KEY=your_api_key_here
+     Gemini_API_KEY=your_api_key_here
      ```
    - You can obtain an API key from the MADTech dashboard
 
