@@ -1,0 +1,7 @@
+{
+  "name": "MADChain - Decentralized Invoice Marketplace",
+  "description": "A blockchain-powered invoice financing platform where MSMEs can tokenize unpaid invoices as NFTs and receive immediate liquidity from global investors.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
